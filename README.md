@@ -1,0 +1,1 @@
+This a C code. The purpose of code is detect empty rows in a given matrix.
